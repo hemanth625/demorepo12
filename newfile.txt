@@ -1,1 +1,5 @@
-test
+testi
+testing a commit
+i am editing to test stashing
+editing it to test gitignore
+testing
